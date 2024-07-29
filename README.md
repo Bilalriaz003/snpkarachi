@@ -1,2 +1,2 @@
 # snpkarachi
-snpkarachi.netlify.app
+https://snpkarachi.netlify.app
